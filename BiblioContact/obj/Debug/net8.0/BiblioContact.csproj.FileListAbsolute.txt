@@ -1,0 +1,12 @@
+C:\Users\polux\OneDrive\Documents\BiblioContact\bin\Debug\net8.0\BiblioContact.deps.json
+C:\Users\polux\OneDrive\Documents\BiblioContact\bin\Debug\net8.0\BiblioContact.dll
+C:\Users\polux\OneDrive\Documents\BiblioContact\bin\Debug\net8.0\BiblioContact.pdb
+C:\Users\polux\OneDrive\Documents\BiblioContact\obj\Debug\net8.0\BiblioContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polux\OneDrive\Documents\BiblioContact\obj\Debug\net8.0\BiblioContact.AssemblyInfoInputs.cache
+C:\Users\polux\OneDrive\Documents\BiblioContact\obj\Debug\net8.0\BiblioContact.AssemblyInfo.cs
+C:\Users\polux\OneDrive\Documents\BiblioContact\obj\Debug\net8.0\BiblioContact.csproj.CoreCompileInputs.cache
+C:\Users\polux\OneDrive\Documents\BiblioContact\obj\Debug\net8.0\BiblioContact.sourcelink.json
+C:\Users\polux\OneDrive\Documents\BiblioContact\obj\Debug\net8.0\BiblioContact.dll
+C:\Users\polux\OneDrive\Documents\BiblioContact\obj\Debug\net8.0\refint\BiblioContact.dll
+C:\Users\polux\OneDrive\Documents\BiblioContact\obj\Debug\net8.0\BiblioContact.pdb
+C:\Users\polux\OneDrive\Documents\BiblioContact\obj\Debug\net8.0\ref\BiblioContact.dll
