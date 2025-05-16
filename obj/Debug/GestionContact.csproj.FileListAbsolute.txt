@@ -1,0 +1,2 @@
+C:\Users\polux\OneDrive\Documents\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\polux\OneDrive\Documents\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

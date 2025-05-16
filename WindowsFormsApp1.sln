@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionContact", "GestionContact.csproj", "{AAD0D144-D1AB-4D18-865B-E537BCF8013F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblioContact", "..\BiblioContact\BiblioContact.csproj", "{712196F5-AE86-46E8-9373-9A61B0055711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD0D144-D1AB-4D18-865B-E537BCF8013F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD0D144-D1AB-4D18-865B-E537BCF8013F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD0D144-D1AB-4D18-865B-E537BCF8013F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD0D144-D1AB-4D18-865B-E537BCF8013F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{712196F5-AE86-46E8-9373-9A61B0055711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712196F5-AE86-46E8-9373-9A61B0055711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712196F5-AE86-46E8-9373-9A61B0055711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712196F5-AE86-46E8-9373-9A61B0055711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2894FBAC-812B-4E5D-849E-0671D9D98D45}
+	EndGlobalSection
+EndGlobal
